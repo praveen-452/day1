@@ -2,7 +2,7 @@
 project
 ## basic linux commands
 - pwd
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir foldername
