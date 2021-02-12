@@ -14,3 +14,18 @@ project
 - cat filename
 - python filename
 - clear
+- git init
+-git clone"repolink"
+-git status
+-git add filename
+-git config user.name "usename"
+-git config user.email"username"
+-git commit -m "msg"
+-git log
+-git log --oneline
+-git remote add remotename "repo link"
+-git remote
+-git remote -v
+-git branch
+-git push remotename branchname
+-git pull remotename branchname
